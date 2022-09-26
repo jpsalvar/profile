@@ -1,0 +1,120 @@
+
+.text-heading{
+    color: white;
+    align: center;
+  }
+.header{
+    background-color: blue;
+    padding: 15px;
+    text-align: center;
+  }
+  .nav_menu{
+    overflow: hidden;
+    background-color: #333;
+  }
+  .nav_menu a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+  }
+  .nav_menu a:hover{
+    background-color:white;
+    color: green;
+  }
+  .columnB{
+    float:left;
+    width:40%;
+    padding: 15px;
+    text-align:center;
+    color:white;
+    font-size: large;
+  }
+  .columnA{
+    float:left;
+    width:20%;
+    padding:15px;
+    text-align:center;
+    color: white;
+    font-size: large;
+  }
+  .columnC{
+    float:left;
+    width:20%;
+    padding:15px;
+    text-align:center;
+    color:white;
+    font-size: large;
+  }
+  .footer{
+    background-color:navy;
+    padding:15px;
+    text-align:center;
+    overflow:hidden;
+    background-color:#333;
+    clear:left;
+  }
+  .footer a{
+    display:inline;
+    color:white;
+    padding:14px 16px;
+    text-decoration:none;
+    font-family:arial;
+  }
+.all{
+    padding-left: 12%;
+}
+h2{
+  text-align:center;
+}
+.saitama{
+  float:left;
+}
+.aboutme{
+    text-align: center;
+    font-size: larger;
+    color: white;
+    font-size: larger;
+}
+.aboutme2{
+   border-style: dotted;
+   font-size: large;
+}
+.bg1{
+    color:black;
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.aboutme3{
+    text-align:justify;
+    border-style: dotted;
+}
+td{
+    background-color: aqua;
+}
+.bullet{
+  color: white;
+  text-align: justify;
+  text-decoration: none;
+  font-size: larger;  
+  
+}
+.logo{
+  text-align: center;
+}
+.bullet a{
+  color: white;
+}
+.IT{
+  float: right;
+}
+.blog{
+  color:white;
+  font-size: large;
+}
+body{
+  background-repeat: no-repeat;
+}
